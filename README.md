@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing my journey as an Electronics &
 
 ## 🚀 Live Demo
 
-**[View Live Portfolio]([https://your-portfolio-url.vercel.app])**
+**[View Live Portfolio](https://your-portfolio-url.vercel.app)**
 
 ## 👨‍💻 About Me
 
