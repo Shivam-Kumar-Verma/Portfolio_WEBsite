@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website showcasing my journey as an Electronics & Communication Engineering student and Full Stack Developer.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=Portfolio+Preview)
 
 ## 🚀 Live Demo
 
